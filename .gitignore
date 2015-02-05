@@ -1,4 +1,4 @@
-.exe
+*.exe
 node_modules
 dist
 .tmp
