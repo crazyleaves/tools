@@ -4,4 +4,5 @@ dist
 .tmp
 .sass-cache
 phantomjs/examples
+phantomjs/bin/phantomjs.exe
 app/bower_components
