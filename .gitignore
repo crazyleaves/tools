@@ -5,4 +5,6 @@ dist
 .sass-cache
 phantomjs/examples
 phantomjs/bin/phantomjs.exe
+phantomjs/bin/*.png
+phantomjs/bin/*.jpg
 app/bower_components
